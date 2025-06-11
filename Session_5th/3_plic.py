@@ -1,0 +1,5 @@
+exam = int(input())
+raju = sum([int(x) for x in input().split(" ")])
+farhan = sum([int(x) for x in input().split(" ")])
+rancho = sum([int(x) for x in input().split(" ")])
+print(rancho-farhan)
